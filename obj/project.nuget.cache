@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+tDJ15yUimL4uJRCpudyYO18BGHo2j9tRBXD9NJ//HQV7O0eI9mkNXJ8oXsN63n8mvdveap8Fm1r3GCQfSVbRw==",
+  "dgSpecHash": "PJ43zSdRT0Hx7CyEyf1O2nFNhR+UxqLgG5dwliYWfg2L4jDPeFnYO8qmHTxwq/3mjrNJkwi0O9xzNIVSC2mysw==",
   "success": true,
-  "projectFilePath": "C:\\Programms\\Programms VS\\sender\\sender.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
-    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
-    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512",
-    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.24\\microsoft.netcore.app.host.win-x64.6.0.24.nupkg.sha512"
-  ],
+  "projectFilePath": "/home/user/MV/sender/sender/sender.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

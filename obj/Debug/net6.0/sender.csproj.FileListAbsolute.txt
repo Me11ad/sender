@@ -1,0 +1,15 @@
+/home/user/MV/sender/sender/bin/Debug/net6.0/sender
+/home/user/MV/sender/sender/bin/Debug/net6.0/sender.deps.json
+/home/user/MV/sender/sender/bin/Debug/net6.0/sender.runtimeconfig.json
+/home/user/MV/sender/sender/bin/Debug/net6.0/sender.dll
+/home/user/MV/sender/sender/bin/Debug/net6.0/ref/sender.dll
+/home/user/MV/sender/sender/bin/Debug/net6.0/sender.pdb
+/home/user/MV/sender/sender/obj/Debug/net6.0/sender.csproj.AssemblyReference.cache
+/home/user/MV/sender/sender/obj/Debug/net6.0/sender.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/MV/sender/sender/obj/Debug/net6.0/sender.AssemblyInfoInputs.cache
+/home/user/MV/sender/sender/obj/Debug/net6.0/sender.AssemblyInfo.cs
+/home/user/MV/sender/sender/obj/Debug/net6.0/sender.csproj.CoreCompileInputs.cache
+/home/user/MV/sender/sender/obj/Debug/net6.0/sender.dll
+/home/user/MV/sender/sender/obj/Debug/net6.0/ref/sender.dll
+/home/user/MV/sender/sender/obj/Debug/net6.0/sender.pdb
+/home/user/MV/sender/sender/obj/Debug/net6.0/sender.genruntimeconfig.cache
