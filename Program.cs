@@ -6,7 +6,7 @@ try{
     await tcpClient.ConnectAsync("192.168.220.139",1777);
     while(true)
     {
-        byte[] imageData = File.ReadAllBytes("img/img5000.jpg");
+        byte[] imageData = File.ReadAllBytes("img/img5000.jpeg");
 
         Console.WriteLine("Введите команду для сервера");
         string command = Console.ReadLine() + '\n';
